@@ -1,0 +1,25 @@
+.body-background{
+    background-image: linear-gradient( to top left ,skyblue,blue,rgb(107, 0, 139))
+}
+#father{
+    width: 70%;
+}
+#mother{
+    width: 70%;
+}
+#sister{
+    width: 70%;
+}
+#brother{
+    width: 70%;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+#camera{
+    width: 320px;
+    height: 240px;
+    border: 2px dashed black;
+    margin-bottom: -50;
+}
